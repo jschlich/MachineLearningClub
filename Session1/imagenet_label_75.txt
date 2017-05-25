@@ -1,0 +1,75 @@
+n00004475	organism, being
+n00005787	benthos
+n00006024	heterotroph
+n00006484	cell
+n00007846	person, individual, someone, somebody, mortal, soul
+n00015388	animal, animate being, beast, brute, creature, fauna
+n00017222	plant, flora, plant life
+n00021265	food, nutrient
+n00021939	artifact, artefact
+n00120010	hop
+n00141669	check-in
+n00288000	dressage
+n00288190	curvet, vaulting
+n00288384	piaffe
+n00324978	funambulism, tightrope walking
+n00326094	rock climbing
+n00433458	contact sport
+n00433661	outdoor sport, field sport
+n00433802	gymnastics, gymnastic exercise
+n00434075	acrobatics, tumbling
+n00439826	track and field
+n00440039	track, running
+n00440218	jumping
+n00440382	broad jump, long jump
+n00440509	high jump
+n00440643	Fosbury flop
+n00440747	skiing
+n00440941	cross-country skiing
+n00441073	ski jumping
+n00441824	water sport, aquatics
+n00442115	swimming, swim
+n00442437	bathe
+n00442847	dip, plunge
+n00442981	dive, diving
+n00443231	floating, natation
+n00443375	dead-man's float, prone float
+n00443517	belly flop, belly flopper, belly whop, belly whopper
+n00443692	cliff diving
+n00443803	flip
+n00443917	gainer, full gainer
+n00444142	half gainer
+n00444340	jackknife
+n00444490	swan dive, swallow dive
+n00444651	skin diving, skin-dive
+n00444846	scuba diving
+n00444937	snorkeling, snorkel diving
+n00445055	surfing, surfboarding, surfriding
+n00445226	water-skiing
+n00445351	rowing, row
+n00445685	sculling
+n00445802	boxing, pugilism, fisticuffs
+n00446311	professional boxing
+n00446411	in-fighting
+n00446493	fight
+n00446632	rope-a-dope
+n00446804	spar, sparring
+n00446980	archery
+n00447073	sledding
+n00447221	tobogganing
+n00447361	luging
+n00447463	bobsledding
+n00447540	wrestling, rassling, grappling
+n00447957	Greco-Roman wrestling
+n00448126	professional wrestling
+n00448232	sumo
+n00448466	skating
+n00448640	ice skating
+n00448748	figure skating
+n00448872	rollerblading
+n00448958	roller skating
+n00449054	skateboarding
+n00449168	speed skating
+n00449295	racing
+n00449517	auto racing, car racing
+n00449695	boat racing
